@@ -1,0 +1,7 @@
+
+
+grammar;
+
+pub Blah: () = {
+    "blah" => (),
+};
