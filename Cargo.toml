@@ -2,11 +2,6 @@
 name = "intent"
 version = "0.1.0"
 authors = ["Martin Evans <martindevans@gmail.com>"]
-description = "A totally function language"
-build = "build.rs"
-
-[build-dependencies]
-lalrpop = "0.11.0"
+description = "A totally functional language"
 
 [dependencies]
-lalrpop-util = "0.11.0"
